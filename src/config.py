@@ -1,7 +1,9 @@
 import os
+
 from dotenv import load_dotenv
 
 load_dotenv()
+
 
 def get_env_or_raise(key: str) -> str:
     """Get an environment variable or raise an exception."""

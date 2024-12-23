@@ -15,3 +15,4 @@ pydantic==2.9.0
 SQLAlchemy==2.0.36
 email-validator==2.1.1
 pydantic-settings==2.2.1
+requests==2.30.0
